@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santhosh Kumar add animation type
+# 👋 Hi, I'm Santhosh Kumar
 
 ### 🚀 Forward Deployed Engineer | Python Full Stack Developer
 
